@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1526573248 source:c:\code\quoc2048oooo\console.cpp
+	"console.h"
+
+1526899410 c:\code\quoc2048oooo\console.h
+	<windows.h>
+
+1526899838 source:c:\code\quoc2048oooo\check.cpp
+	"check.h"
+
+1526899838 c:\code\quoc2048oooo\check.h
+	"console.h"
+
+1526899838 source:c:\code\quoc2048oooo\constructor.cpp
+	"constructor.h"
+
+1526899838 c:\code\quoc2048oooo\constructor.h
+	<ctime>
+	"check.h"
+	"display.h"
+	"console.h"
+
+1526899877 c:\code\quoc2048oooo\display.h
+	<cstdio>
+	<conio.h>
+	"console.h"
+	"score.h"
+
+1526899838 c:\code\quoc2048oooo\score.h
+	<fstream>
+
+1526899838 source:c:\code\quoc2048oooo\display.cpp
+	"display.h"
+	<iostream>
+
+1526899838 source:c:\code\quoc2048oooo\move.cpp
+	"move.h"
+
+1526899838 c:\code\quoc2048oooo\move.h
+	"console.h"
+
+1526536323 source:c:\code\quoc2048oooo\score.cpp
+	"score.h"
+
+1526899838 source:c:\code\quoc2048oooo\main.cpp
+	"console.h"
+	"move.h"
+	"display.h"
+	"check.h"
+	"score.h"
+	"constructor.h"
+	<iostream>
+
